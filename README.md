@@ -1,6 +1,6 @@
 Summary
 
-We found data pertaining to daily activity and sleep activity for a number of Fitbit users. We organized the data to show the relationship between total distance and total calories for each active user. We analyzed the quality of sleep for each active user defined by total minutes asleep to total time in bed. Finally, we created a plot of a random user to see if the total steps has any correlation to overall quality of sleep. 
+Organized Fitbit data to show the relationship between total distance and total calories for each active user. Analyzed the quality of sleep for each active user. 
 
 Conclusions:
 1) There are total of 33 users studied
